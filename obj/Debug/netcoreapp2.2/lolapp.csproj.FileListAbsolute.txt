@@ -1,0 +1,11 @@
+C:\Users\enzop\Documents\codes\lolapp\obj\Debug\netcoreapp2.2\lolapp.csprojAssemblyReference.cache
+C:\Users\enzop\Documents\codes\lolapp\obj\Debug\netcoreapp2.2\lolapp.csproj.CoreCompileInputs.cache
+C:\Users\enzop\Documents\codes\lolapp\obj\Debug\netcoreapp2.2\lolapp.AssemblyInfoInputs.cache
+C:\Users\enzop\Documents\codes\lolapp\obj\Debug\netcoreapp2.2\lolapp.AssemblyInfo.cs
+C:\Users\enzop\Documents\codes\lolapp\bin\Debug\netcoreapp2.2\lolapp.deps.json
+C:\Users\enzop\Documents\codes\lolapp\bin\Debug\netcoreapp2.2\lolapp.runtimeconfig.json
+C:\Users\enzop\Documents\codes\lolapp\bin\Debug\netcoreapp2.2\lolapp.runtimeconfig.dev.json
+C:\Users\enzop\Documents\codes\lolapp\bin\Debug\netcoreapp2.2\lolapp.dll
+C:\Users\enzop\Documents\codes\lolapp\bin\Debug\netcoreapp2.2\lolapp.pdb
+C:\Users\enzop\Documents\codes\lolapp\obj\Debug\netcoreapp2.2\lolapp.dll
+C:\Users\enzop\Documents\codes\lolapp\obj\Debug\netcoreapp2.2\lolapp.pdb
