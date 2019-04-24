@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enzop\\Documents\\codes\\lolapp\\lolapp.csproj": {}
+    "C:\\Users\\Nicolás Garófalo\\Desktop\\LolApp\\lolapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enzop\\Documents\\codes\\lolapp\\lolapp.csproj": {
+    "C:\\Users\\Nicolás Garófalo\\Desktop\\LolApp\\lolapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enzop\\Documents\\codes\\lolapp\\lolapp.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolás Garófalo\\Desktop\\LolApp\\lolapp.csproj",
         "projectName": "lolapp",
-        "projectPath": "C:\\Users\\enzop\\Documents\\codes\\lolapp\\lolapp.csproj",
-        "packagesPath": "C:\\Users\\enzop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enzop\\Documents\\codes\\lolapp\\obj\\",
+        "projectPath": "C:\\Users\\Nicolás Garófalo\\Desktop\\LolApp\\lolapp.csproj",
+        "packagesPath": "C:\\Users\\Nicolás Garófalo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolás Garófalo\\Desktop\\LolApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\enzop\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nicolás Garófalo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
